@@ -1,1 +1,49 @@
+What are the linux Commands in DevOps? 
+Linux commands are an essential component of any DevOps engineer’s toolkit. When working as a DevOps engineer, 
+you’ll probably need to use Linux commands for a variety of tasks, including managing servers, automating processes, and troubleshooting problems. 
+A Linux commands cheat sheet for DevOps can be useful in this situation. So, in this article, the essential Linux commands frequently used in DevOps will be listed in detail with a  comprehensive cheat sheet.
+
+Why Linux is Used for DevOps?
+DevOps is a software development methodology that prioritizes collaboration and communication between development and operations teams. 
+Linux is the preferred operating system for many DevOps teams due to its open-source nature, security, flexibility, automation, and containerization capabilities.
+Users can easily modify their source code, and its security features include file permissions, firewalls, and encryption, which help protect systems and data from attacks.
+Also, Linux offers various automation tools like shell scripts, cron jobs, and other utilities that help to automate various tasks in the DevOps pipeline. 
+Moreover, Linux offers various containerization technologies like Docker, Kubernetes, and LXC, which enable devops to create and deploy applications quickly.
+
+Linux Commands for DevOps:-
+
+1.File and Disk Management Commands:
+Here, I have included all the file and disk management commands that you will need for navigation through files and directories. Some commands for displaying contents,
+changing permissions, and extracting information about disks and files are also included.
+
+ls	    : Lists files and directories in current directory.
+ls -l	  : Lists files and directories with information  such as permissions, ownership, size, and modification date.
+ls -a	  : Lists all files and directories including hidden ones.
+cat -b	: Inserts line numbers to non-blank lines.
+cat -n	: Inserts line numbers to all lines.
+cat -s	: Squeezes multiple blank lines into a single blank line while displaying the file contents.
+cat –E	: Displays contents of a file ending with a $ symbol in each line.
+chmod	  : Changes permissions of a file or directory.
+chown	  : Changes ownership of a file or directory.
+tail	  : Displays last 10 lines of a specified file.
+dd	    : Copies raw data from one file/ device to another.
+find	  : Finds files and directories based on specific criteria.
+scp	    : Copies securely  files between hosts on a network using SSH (Secure Shell) protocol.
+df	    : Estimates space used by entire file system.
+du	    : Displays the amount of disk space used by individual file.
+
+2. User and Group Management Commands:
+You will find the user and group management commands useful for managing user accounts and groups. You will be able to control access to files, directories, and other resources on the system. 
+Also, some commands allow you to verify user and group information, troubleshoot permissions issues, and manage user and group access to resources on a system.
+
+sudo useradd <username> : Creates a new user account with the specified username.
+sudo passwd <username> : Changes the password for the specified user.
+sudo userdel <username> : Deletes the specified user account from the system.
+sudo groupadd <groupname> : Creates a new group with the specified group name.
+sudo groupdel <groupname> : Deletes the specified group from the system.
+sudo usermod -g <groupname> <username> : Modifies the primary group of the specified user to the specified group.
+id : Displays the user ID (uid) and group ID (gid) of the current user.
+id -g <groupname> :	Displays the group ID (gid) of the specified group.
+id -u <username> :	Displays the user ID (uid) of the specified user.
+id <username>	: Displays the user ID (uid), group ID (gid), and supplementary group IDs (sgid) of the specified user.
 
