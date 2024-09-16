@@ -2,8 +2,6 @@ Software Development Life Cycle (SDLC):
 Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software. 
 SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
 
-https://media.geeksforgeeks.org/wp-content/uploads/20231220113035/SDLC.jpg
-
 Stages of the Software Development Life Cycle:
 1. Planning and Requirement Analysis
 2.Defining Requirement
@@ -11,8 +9,6 @@ Stages of the Software Development Life Cycle:
 4.Developing Product
 5.Product Testing and Integration
 6.Deployment and Maintenance of Products
-
-https://media.geeksforgeeks.org/wp-content/uploads/20231220112830/6-Stages-of-Software-Development-Life-Cycle.jpg
 
 Software Development Life Cycle Models:
 1. Waterfall Model
