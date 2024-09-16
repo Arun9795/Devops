@@ -1,1 +1,47 @@
+10 common Linux DevOps interview questions to ask your candidates.
+1.Can you explain the difference between a hard link and a soft link in Linux?
+2.How would you check the disk usage of a specific directory in Linux?
+3.What are some common ways to troubleshoot a Linux server that won’t boot?
+4.How can you determine which process is using a specific port on a Linux system?
+5.What is the purpose of the 'chmod' command, and how do you use it?
+6.Describe how you would manage user permissions in a Linux environment.
+7.What tools or commands would you use to monitor system performance in Linux?
+8.Can you explain the function of the 'cron' daemon in Linux?
+9.How do you create a shell script, and what are some common use cases?
+10.What steps would you take to secure a Linux server?
 
+7 Linux DevOps interview questions for evaluate junior engineers.
+1. Can you explain the purpose of the '/etc' directory in Linux?
+2. How would you check the current running processes on a Linux system?
+3. What is the significance of the root user in Linux, and why is it generally advised to avoid using it for routine tasks?
+4. How would you go about troubleshooting a slow-performing Linux server?
+5. Explain the concept of file ownership in Linux and how it relates to permissions?
+6. What is a daemon in Linux, and can you give an example of a common daemon?
+7. How would you create a backup of a directory in Linux, and why is it important to do so regularly?
+
+15 intermediate Linux DevOps interview questions for ask mid-tier engineers.
+1.How would you handle package management in a Linux environment using tools like apt or yum?
+2.Describe the process of setting up passwordless SSH between two Linux systems.
+3.What steps would you take to diagnose and resolve a network connectivity issue on a Linux server?
+4.How would you automate repetitive tasks in Linux using scripting languages like Bash or Python?
+5.Can you explain how to use 'rsync' for efficient data transfer and synchronization?
+6.What are the steps to configure and manage a firewall on a Linux system using tools like iptables or firewalld?
+7.Describe the process of setting up and managing a Docker container on a Linux server.
+8.How would you approach troubleshooting a kernel panic issue on a Linux system?
+9.What methods would you use to monitor and maintain system logs in Linux?
+10.Explain how you would manage software dependencies and environments using tools like Ansible or Puppet.
+11.Describe how you would configure a RAID array in Linux and the benefits it provides.
+12.How do you ensure high availability and disaster recovery for a critical application running on a Linux server?
+13.What steps would you take to optimize a Linux server for better performance?
+14.Can you explain the process of compiling and installing software from source on a Linux system?
+15.How would you secure a Linux-based web server to prevent common vulnerabilities and attacks?
+
+8 advanced Linux DevOps interview questions for evaluate senior engineers.
+1. How would you approach capacity planning for a rapidly growing microservices architecture?
+2. Describe a situation where you had to debug a complex production issue. What was your approach?
+3. How would you design a highly available and fault-tolerant system using Linux and open-source tools?
+4. Explain the concept of 'infrastructure as code' and how you would implement it in a Linux environment?
+5. How would you approach implementing a zero-downtime deployment strategy for a critical application?
+6. Describe how you would set up and manage a centralized logging system for a distributed Linux environment?
+7. How would you approach automating the onboarding process for new Linux servers in your infrastructure?
+8. Explain how you would implement a comprehensive backup and disaster recovery strategy for critical Linux systems and data?
