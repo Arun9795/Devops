@@ -1,6 +1,7 @@
 What is Virtualization?
 Virtualization is the process of creating several virtual systems on a single server. This practice maximizes a physical machine’s capacity by distributing its resources between multiple users and environments.
 DevOps teams use virtualization to create virtual machines (VMs), emulations of hardware and software configurations. Each VM has an operating system and acts as an independent computer even though it runs on a portion of the physical device. A virtual machine mimics all components of a computer, including:
+
 1.CPU.
 2.RAM.
 3.Storage.
@@ -12,6 +13,7 @@ With virtualization, a piece of hardware can host numerous VM configurations sim
 3.Consistent environments throughout the continuous integration and continuous delivery (CI/CD) process.
 
 DevOps teams use a hypervisor to manage virtual machines. A hypervisor, or a Virtual Machine Monitor (VMM), is a piece of software, firmware, or hardware that creates and runs VMs. The most popular VMMs are:
+
 1.VMWare (ESXi).
 2.AWS XEN.
 3.Microsoft Hyper V.
@@ -25,6 +27,7 @@ Virtualization relies on cloud computing to ensure optimal performance at all ti
 
 Different Types of Virtualization
 There are four primary types of virtualization:
+
 1.Server virtualization.
 2.Network virtualization.
 3.Desktop virtualization.
